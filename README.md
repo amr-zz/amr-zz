@@ -1,7 +1,7 @@
 <h1 align="center">💠 Heyy 👋, 𝘐'𝘮 𝘈𝘮𝘳! 💠</h1>
 
 <div align="center">
-  <img src="SAO_K.gif" width="720" height="auto">
+  <img src="SAO_K.gif" width="500" height="auto">
 </div>
 
 <br>
