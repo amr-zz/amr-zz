@@ -25,6 +25,7 @@
 
 <div align="center">
   <p align="center">
+    <b>Entry-level backend developer | Django & DRF | APIs | Learning best practices</b><br><br>
     <img style="margin: 5px" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30"/>
     <img style="margin: 5px" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height="30"/>
     <img style="margin: 5px" src="https://img.shields.io/badge/-DRF-000000?style=flat-square&logo=django&logoColor=white" height="30"/>
